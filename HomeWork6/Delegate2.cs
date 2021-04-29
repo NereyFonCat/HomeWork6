@@ -20,5 +20,5 @@ namespace HomeWork6
             }
             Console.WriteLine("---------------------");
         }
-    }
+    } 
 }
